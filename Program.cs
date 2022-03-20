@@ -267,8 +267,6 @@ namespace IO
             var f1 = new Number<float> { Value = 3.14f };
             var f2 = new Number<float> { Value = 3.14f };
             Console.WriteLine((f1 + f2).Value);
-
-            //С днем числа Пи
         }
 
     }
