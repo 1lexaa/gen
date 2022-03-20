@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/genegics/bin/Debug/net6.0/genegics
+/Users/1lexaa/Documents/учеба/genegics/bin/Debug/net6.0/genegics.deps.json
+/Users/1lexaa/Documents/учеба/genegics/bin/Debug/net6.0/genegics.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/genegics/bin/Debug/net6.0/genegics.dll
+/Users/1lexaa/Documents/учеба/genegics/bin/Debug/net6.0/genegics.pdb
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.dll
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/refint/genegics.dll
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.pdb
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/genegics.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/genegics/obj/Debug/net6.0/ref/genegics.dll
